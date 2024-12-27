@@ -3,3 +3,14 @@
     background-color: rebeccapurple;
   }
   
+
+  img{
+    height: 50px;
+    width: 50px;
+  }
+
+  .navigation{
+    background-color: rgb(237, 232, 228);
+    height: 100rem;
+   width: 20rem;
+  }

@@ -1,6 +1,20 @@
 
 
+import  "./images/bell.png";
+import "./images/apps.png";
+import "./images/hashtag.png";
+import "./images/orange.png";
+import "./images/plus-thick.png";
+import "./images/search.png";
+
+
+
+
+
+
+
+
 
 import "./to-do.css";
- import {list} from "./list.js";
+ import {list} from "./distribution/list.js";
  console.log(list);
